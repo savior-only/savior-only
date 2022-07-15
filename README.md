@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=savior-only&&show_icons=true&theme=radical)
 
-<img alt="GIF" src="https://user-images.githubusercontent.com/69495405/178914092-32a54012-aab0-45aa-8d2b-2c70059b3769.gif"  width="800"/>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savior-only&repo=Sunlogin_RCE-GUI-&)](https://github.com/savior-only/Sunlogin_RCE-GUI-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savior-only&repo=log4j2_Fuzz)](https://github.com/savior-only/log4j2_Fuzz)
+<img alt="GIF" src="https://user-images.githubusercontent.com/69495405/178914092-32a54012-aab0-45aa-8d2b-2c70059b3769.gif"  width="800"/>
