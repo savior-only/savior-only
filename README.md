@@ -2,10 +2,6 @@
 
 Welcome to my page!
 
-### Things I code with
-
-![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/java-1.8-blue?style=for-the-badge&logo=python&logoColor=ff69b4)
 
 <!--
 **savior-only/savior-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +23,11 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=savior-only" height="150" alt="languages graph"  />
 </div>
 
+## Things I code with
+
+![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=blue)
+
+![](https://img.shields.io/badge/java-1.8-blue?style=for-the-badge&logo=python&logoColor=ff69b4)
 
 ![](https://activity-graph.herokuapp.com/graph?username=savior-only&theme=github)
 
