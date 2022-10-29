@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ## Things I code with
 
 ![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=blue)
-
 ![](https://img.shields.io/badge/java-1.8-blue?style=for-the-badge&logo=python&logoColor=ff69b4)
 
 ![](https://activity-graph.herokuapp.com/graph?username=savior-only&theme=github)
