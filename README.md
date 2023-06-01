@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savior-only&repo=javafx_tools&)](https://github.com/savior-only/javafx_tools)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savior-only&repo=Sunlogin_RCE-GUI-&)](https://github.com/savior-only/Sunlogin_RCE-GUI-)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savior-only&repo=CVE-2022-22947)](https://github.com/savior-only/CVE-2022-22947)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=savior-only&repo=Spring_All_Reachable)](https://github.com/savior-only/Spring_All_Reachable)
