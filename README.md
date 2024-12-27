@@ -3,6 +3,8 @@
 Welcome to my page!
 
 
+Blog: [savior's blog](https://savior-only.github.io)
+
 <!--
 **savior-only/savior-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
